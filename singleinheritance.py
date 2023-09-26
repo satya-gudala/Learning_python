@@ -2,7 +2,7 @@ class superclass:
     name=""
     marks=0.0
     def sdisplay(self):
-        print"YOU")
+        print"satya")
 class subclass(superclass):
     def fdisplay(self):
         self.name="vamsikumar"
